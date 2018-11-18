@@ -11,4 +11,9 @@ class Match
 	{
 		echo '新增版本V2.0.0';
 	}
+
+	public function stable()
+	{
+		echo "稳定版本测试";
+	}
 }
