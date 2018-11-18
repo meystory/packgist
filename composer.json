@@ -1,5 +1,5 @@
 {
-    "name": "es/build-query",
+    "name": "cwles/build-query",
     "description": "es build query",
     "type": "library",
     "require": {
@@ -15,7 +15,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "EsQuery": "src/EsQuery"
+            "EsQueryTest": "src/EsQuery"
         }
     }
 }
