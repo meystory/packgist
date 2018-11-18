@@ -6,4 +6,9 @@ class Match
 	{
 		echo 'es query data to beJson 111';
 	}
+
+	public function testV2()
+	{
+		echo '新增版本V2.0.0';
+	}
 }
